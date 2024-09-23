@@ -1,0 +1,1 @@
+# plugins-addon-so-widgets-bundle
